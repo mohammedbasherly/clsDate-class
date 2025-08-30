@@ -1,0 +1,33 @@
+﻿  clsDate Library.cpp
+C:\Programming\Libraries\funcs.h(299,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsDate%20Library.cpp')
+  
+C:\Programming\Libraries\global_funcs.h(457,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate%20Library.cpp')
+  
+C:\Programming\Libraries\global_funcs.h(551,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate%20Library.cpp')
+  
+C:\Programming\Libraries\global_funcs.h(569,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate%20Library.cpp')
+  
+C:\Programming\Libraries\global_funcs.h(632,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate%20Library.cpp')
+  
+C:\Programming\Libraries\global_funcs.h(702,19): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate%20Library.cpp')
+  
+C:\Programming\Libraries\global_funcs.h(707,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate%20Library.cpp')
+  
+C:\Programming\Libraries\global_funcs.h(743,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate%20Library.cpp')
+  
+C:\Programming\Libraries\clients_data.h(315,53): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate%20Library.cpp')
+  
+C:\Programming\Libraries\clients_data.h(326,48): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate%20Library.cpp')
+  
+C:\Programming\Libraries\clients_data.h(979,1): warning C4715: 'clients_data::copyUserData': not all control paths return a value
+  clsDate Library.vcxproj -> C:\Programming\Programming Advices\course 10\clsDate Library\x64\Debug\clsDate Library.exe
