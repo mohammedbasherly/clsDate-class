@@ -1,9 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#include "C:/Programming/Libraries/clsDate.h"
-
-#include "C:/Programming/Libraries/library.h"
+#include "New folder/clsDate.h"
 
 int main()
 {
@@ -24,3 +22,4 @@ int main()
 
 	return 0;
 }
+
